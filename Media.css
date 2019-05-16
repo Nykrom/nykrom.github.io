@@ -4,7 +4,7 @@
     width: 100%;
     left: 0px;   
     }
-    #table1{ right: 50px;}
+    #table1{position: relative; left: -50px;}
     #stravaname{position: absolute; top: 335px; left: 20px;
     }
     #strava{bottom: 110px; left: 15%; width: 75%}
