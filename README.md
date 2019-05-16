@@ -1,1 +1,0 @@
-# nykrom.github.io
