@@ -1,4 +1,5 @@
 @media only screen and (max-width: 576px){
+    body{overflow-x: hidden;}
     #myMenu{
     width: 100%;
     left: 0px;   
